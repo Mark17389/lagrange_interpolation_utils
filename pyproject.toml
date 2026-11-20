@@ -1,6 +1,6 @@
 [project]
 name = "lagrange-interpolation-utils"
-version = "0.1.2"
+version = "0.1.3"
 description = "Builds and evaluates the Lagrange interpolating polynomial using only the Python stdlib."
 requires-python = ">=3.10"
 dependencies = []
